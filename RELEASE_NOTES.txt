@@ -1,5 +1,4 @@
 Shin-Dialectics 2.0 — Priority Record (v2025.08.11)
-公開日時（JST）: 2025-08-11T11:07:01+09:00
-
-同梱: CLAIMS.md / HASHES.txt / REPRODUCIBILITY.md / CITATION.cff / docs/
-検証: HASHES.txt と docs/ のSHA一致を確認
+Published (JST): 2025-08-11T11:45:23+09:00
+Includes: CLAIMS, HASHES, REPRODUCIBILITY, CITATION, docs/
+Verify: SHA-256 in HASHES vs files

@@ -1,12 +1,7 @@
-# PRIORITY LEDGER — 優先権台帳
+- Generated (JST): **2025-08-11T11:45:23+09:00**
+- Tag: **v2025.08.11**
 
-- 生成日時（JST）: **2025-08-11T11:07:01+09:00**
-- タグ: **v2025.08.11**
-
-| 証拠 | 値（URL/ID） | 備考 |
+| Evidence | Value | Note |
 |---|---|---|
-| Git commit (main) |  | 公開の一次証拠 |
-| GitHub Release |  | Tag: v2025.08.11 |
-| Zenodo DOI |  | 任意 |
-| OSF Preprints |  | 任意 |
-| arXiv ID |  | 任意 |
+| Git commit |  | primary proof |
+| GitHub Release |  | Tag v2025.08.11 |

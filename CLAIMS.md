@@ -1,9 +1,8 @@
-# CLAIMS — 主張ID（C1〜）
-- C1: 複数否定の同時生成 E₂(n)
-- C2: 量質転化閾値（λₚ, λₐ, λₛ, λᵢ）
-- C3: 内在的否定[i]・外在的否定[e]・創造的緊張★
-- C4: 問いの弁証法 Q(P) と問いの跳躍（⇗）
-- C5: 量子的重ね合わせ |ψ⟩
-- C6: 思考多様体の高曲率領域
-- C7: 三層統合プロンプティング（SIP）
-- C8: 思考OS／量質転化監視
+- C1: Simultaneous Multiple Negation E2(n)
+- C2: Thresholds λp, λa, λs, λi
+- C3: Internal/External Negation and Creative Tension
+- C4: Dialectics of Questions and Leap
+- C5: Quantum Superposition |ψ⟩
+- C6: High-curvature regions in thinking manifold
+- C7: Three-Layer Integrative Prompting
+- C8: Architecture & λ monitor

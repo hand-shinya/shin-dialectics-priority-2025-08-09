@@ -1,8 +1,8 @@
-# シン・弁証法 2.0 — 優先権キット（Priority Kit）
+# Shin-Dialectics 2.0 — Priority Kit
 
-- 生成日時（JST）: **2025-08-11T11:07:01+09:00**
-- 予定タグ: **v2025.08.11**
+- Generated (JST): **2025-08-11T11:45:23+09:00**
+- Tag: **v2025.08.11**
 
-## 手順
-1) 公開リポジトリ作成→本フォルダの全ファイルをアップロード
-2) Releasesでタグ `v2025.08.11` を発行→本文に `RELEASE_NOTES.txt` を貼付
+## Steps
+1) Upload all files to a new **Public** GitHub repo
+2) Create Release with tag `v2025.08.11` and paste `RELEASE_NOTES.txt`
