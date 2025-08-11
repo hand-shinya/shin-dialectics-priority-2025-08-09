@@ -1,0 +1,16 @@
+Shin‑Dialectics 2.0 — Priority Record (English)
+
+Published (JST): 2025-08-11 16:33:24 UTC+09:00
+Canonical tag: v2025.08.11
+
+Summary:
+- Fixes the intellectual state as of the tag above.
+- Verifiable priority via GitHub public timestamp + SHA‑256 hashes.
+- Key contributions: E₂(n); λ‑thresholded phase model; internal/external negation and creative tension; question dialectics; quantum‑like concept superposition; thinking‑manifold high‑curvature regions; Three‑Layer Integrative Prompting (SIP); Thinking OS with λ‑monitor.
+
+Verification:
+1) See `HASHES.txt` for SHA‑256 values. 2) Download file via **Raw**, compute SHA‑256 locally, and ensure it matches.
+
+Links:
+- Repository: <PASTE_REPOSITORY_URL>
+- Canonical release: <PASTE_RELEASE_URL>
