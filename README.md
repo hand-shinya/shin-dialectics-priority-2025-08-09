@@ -6,4 +6,5 @@
 ## Steps
 1) Upload all files to a new **Public** GitHub repo
 2) Create Release with tag `v2025.08.11` and paste `RELEASE_NOTES.txt`
+
 https://github.com/hand-shinya/shin-dialectics-priority-2025-08-09/releases/tag/v2025.08.11
