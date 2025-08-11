@@ -4,4 +4,4 @@
 | Evidence | Value | Note |
 |---|---|---|
 | Git commit |  | primary proof |
-| GitHub Release |  | Tag v2025.08.11 |
+| GitHub Release |  | https://github.com/hand-shinya/shin-dialectics-priority-2025-08-09/releases/tag/v2025.08.11　Tag v2025.08.11 |
