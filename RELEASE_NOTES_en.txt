@@ -12,5 +12,5 @@ Verification:
 1) See `HASHES.txt` for SHA‑256 values. 2) Download file via **Raw**, compute SHA‑256 locally, and ensure it matches.
 
 Links:
-- Repository: <PASTE_REPOSITORY_URL>
+- Repository:https://github.com/hand-shinya/shin-dialectics-priority-2025-08-09
 - Canonical release: https://github.com/hand-shinya/shin-dialectics-priority-2025-08-09/releases/tag/v2025.08.11
