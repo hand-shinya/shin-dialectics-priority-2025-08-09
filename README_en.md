@@ -28,5 +28,5 @@ Add your release URL here:https://github.com/hand-shinya/shin-dialectics-priorit
 ## medium
 https://medium.com/@handa.shinya/shin-dialectics-2-0-from-linear-dialectics-to-simultaneous-multiple-negation-069703a637d4
 
-whitepaper_en_v2025-08-11.md
-faq_en_v2025-08-11.md
+- [Whitepaper (EN)](./whitepaper_en_v2025-08-11.md)
+- [FAQ (EN)](./faq_en_v2025-08-11.md)
