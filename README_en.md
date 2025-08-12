@@ -27,3 +27,6 @@ This repository fixes the state of the work as of the tag above. Public timestam
 Add your release URL here:https://github.com/hand-shinya/shin-dialectics-priority-2025-08-09/releases/tag/v2025.08.11
 ## medium
 https://medium.com/@handa.shinya/shin-dialectics-2-0-from-linear-dialectics-to-simultaneous-multiple-negation-069703a637d4
+
+whitepaper_en_v2025-08-11.md
+faq_en_v2025-08-11.md
