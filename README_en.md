@@ -40,3 +40,6 @@ authors:
     given-names: Shinya
 date-released: 2025-08-11
 url: https://github.com/hand-shinya/shin-dialectics-priority-2025-08-09
+
+- [Whitepaper (EN)](./whitepaper_en_v2025-08-11.md)
+
