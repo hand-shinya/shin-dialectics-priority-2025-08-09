@@ -30,3 +30,13 @@ https://medium.com/@handa.shinya/shin-dialectics-2-0-from-linear-dialectics-to-s
 
 - [Whitepaper (EN)](./whitepaper_en_v2025-08-11.md)
 - [FAQ (EN)](./faq_en_v2025-08-11.md)
+
+cff-version: 1.2.0
+message: "If you use this work, please cite it."
+title: "Shin-Dialectics 2.0 — Priority Record"
+version: v2025.08.11
+authors:
+  - family-names: Handa
+    given-names: Shinya
+date-released: 2025-08-11
+url: https://github.com/hand-shinya/shin-dialectics-priority-2025-08-09
