@@ -9,3 +9,4 @@
 2) Create Release with tag `v2025.08.11` and paste `RELEASE_NOTES.txt`
 
 DOI: https://doi.org/10.5281/zenodo.16810659
+[![DOI](https://zenodo.org/badge/1035734571.svg)](https://doi.org/10.5281/zenodo.16810658)
