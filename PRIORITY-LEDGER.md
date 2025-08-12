@@ -6,3 +6,4 @@
 | Git commit |  | primary proof |
 | GitHub Release |  | https://github.com/hand-shinya/shin-dialectics-priority-2025-08-09/releases/tag/v2025.08.11　Tag v2025.08.11 |
 Verification: 2025-08-11 JST — doc6 SHA-256 matched (BE197EEEB...1B97E2)
+medium: https://medium.com/@handa.shinya/shin-dialectics-2-0-from-linear-dialectics-to-simultaneous-multiple-negation-069703a637d4
